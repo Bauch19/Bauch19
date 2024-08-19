@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://github.com/Bauch19/Bauch19/blob/d2c783c786dc7c34c1912cfab2742f7ec69cbf2f/Banner.png" align="center"/>
+<img alt="Night Coding" src="https://github.com/Bauch19/Bauch19/blob/main/Banner.png?raw=true" align="center"/>
 
 ### Bienvenidos 👋
 
